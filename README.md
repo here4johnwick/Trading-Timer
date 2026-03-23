@@ -1,2 +1,2 @@
-# Swing-Timer
+# Trading-Timer
 Alerts on new candle open
